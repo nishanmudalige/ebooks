@@ -1,4 +1,4 @@
-# 2014 Fall
+# Statistics Textbook
 
 Open main.pdf to view ebook.
 
